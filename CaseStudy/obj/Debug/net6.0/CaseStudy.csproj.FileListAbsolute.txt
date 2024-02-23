@@ -1,0 +1,8 @@
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy\obj\Debug\net6.0\CaseStudy.csproj.AssemblyReference.cache
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy\obj\Debug\net6.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy\obj\Debug\net6.0\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy\obj\Debug\net6.0\CaseStudy.AssemblyInfo.cs
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy\obj\Debug\net6.0\CaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy\obj\Debug\net6.0\CaseStudy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy\obj\Debug\net6.0\CaseStudy.RazorAssemblyInfo.cache
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy\obj\Debug\net6.0\CaseStudy.RazorAssemblyInfo.cs

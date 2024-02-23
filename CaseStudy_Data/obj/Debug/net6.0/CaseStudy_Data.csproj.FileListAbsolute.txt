@@ -1,0 +1,15 @@
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\CaseStudy_Data.csproj.AssemblyReference.cache
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\CaseStudy_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\CaseStudy_Data.AssemblyInfoInputs.cache
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\CaseStudy_Data.AssemblyInfo.cs
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\CaseStudy_Data.csproj.CoreCompileInputs.cache
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\bin\Debug\net6.0\CaseStudy_Data.deps.json
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\bin\Debug\net6.0\CaseStudy_Data.dll
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\bin\Debug\net6.0\CaseStudy_Data.pdb
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\bin\Debug\net6.0\CaseStudy_Entity.dll
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\bin\Debug\net6.0\CaseStudy_Entity.pdb
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\CaseStud.06F1B68D.Up2Date
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\CaseStudy_Data.dll
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\refint\CaseStudy_Data.dll
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\CaseStudy_Data.pdb
+C:\Users\HECTOR\Desktop\CaseStudy_Walnut\CaseStudy_Data\obj\Debug\net6.0\ref\CaseStudy_Data.dll
